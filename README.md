@@ -1,7 +1,7 @@
 # EX.No-6-EDGE-DETECTION
 # Aim
 To perform edge detection using Sobel, Roberts, Prewitt, Laplacian, and Canny edge detectors.
-
+ 
 # Software Required
 - Anaconda – Python 3.7
 - Jupyter Notebook / VS Code
